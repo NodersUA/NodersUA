@@ -5,7 +5,7 @@
 
 - 👯 We are looking to collaborate with projects on **testnet/mainnet.**
 
-- 🤝 We are looking for help projects with **differnt kind of supports.**
+- 🤝 We are looking projects for differnt **kind of supports..**
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=NodersUA&hide=issues&show_icons=true&hide_border=true&count_private=true&theme=merko&locale=en" alt="NodersUA" /></p>
 
